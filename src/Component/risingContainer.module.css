@@ -1,0 +1,11 @@
+.imageContainer{
+    display: flex;
+    height: 400px;
+    margin-top: 5%;
+}
+
+.image{
+    display: block;
+    width: 100%;
+    cursor: pointer;
+}
